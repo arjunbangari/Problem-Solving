@@ -1,4 +1,21 @@
 {
+  "CF53513385": {
+    "contest_id": 1150,
+    "language": "Python 3",
+    "path": "codeforces\\1150\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stock Arbitraging",
+    "problem_url": "https://codeforces.com/contest/1150/problem/A",
+    "submission_id": "CF53513385",
+    "submission_url": "https://codeforces.com/contest/1150/submission/53513385",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/29/2019 20:41"
+  },
   "CF56093083": {
     "contest_id": 1183,
     "language": "Python 3",
