@@ -1,4 +1,22 @@
 {
+  "CF57746028": {
+    "contest_id": 1196,
+    "language": "Python 3",
+    "path": "codeforces\\1196\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Piles of Candies",
+    "problem_url": "https://codeforces.com/contest/1196/problem/A",
+    "submission_id": "CF57746028",
+    "submission_url": "https://codeforces.com/contest/1196/submission/57746028",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/25/2019 18:33"
+  },
   "CF60780064": {
     "contest_id": 158,
     "language": "Python 3",
