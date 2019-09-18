@@ -1,4 +1,21 @@
 {
+  "CF60780064": {
+    "contest_id": 158,
+    "language": "Python 3",
+    "path": "codeforces\\158\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Next Round",
+    "problem_url": "https://codeforces.com/contest/158/problem/A",
+    "submission_id": "CF60780064",
+    "submission_url": "https://codeforces.com/contest/158/submission/60780064",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/18/2019 21:26"
+  },
   "CF60782755": {
     "contest_id": 1220,
     "language": "Python 3",
