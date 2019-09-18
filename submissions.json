@@ -1,4 +1,21 @@
 {
+  "CF60791793": {
+    "contest_id": 1220,
+    "language": "Python 3",
+    "path": "codeforces\\1220\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multiplication Table",
+    "problem_url": "https://codeforces.com/contest/1220/problem/B",
+    "submission_id": "CF60791793",
+    "submission_url": "https://codeforces.com/contest/1220/submission/60791793",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Sep/18/2019 22:02"
+  },
   "CF60864656": {
     "contest_id": 1221,
     "language": "Python 3",
