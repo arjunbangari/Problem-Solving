@@ -1,4 +1,22 @@
 {
+  "CF60782755": {
+    "contest_id": 1220,
+    "language": "Python 3",
+    "path": "codeforces\\1220\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1220/problem/A",
+    "submission_id": "CF60782755",
+    "submission_url": "https://codeforces.com/contest/1220/submission/60782755",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/18/2019 21:40"
+  },
   "CF60791793": {
     "contest_id": 1220,
     "language": "Python 3",
