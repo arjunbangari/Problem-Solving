@@ -1,4 +1,21 @@
 {
+  "CF61027599": {
+    "contest_id": 1221,
+    "language": "Python 3",
+    "path": "codeforces\\1221\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Knights",
+    "problem_url": "https://codeforces.com/contest/1221/problem/B",
+    "submission_id": "CF61027599",
+    "submission_url": "https://codeforces.com/contest/1221/submission/61027599",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Sep/21/2019 22:01"
+  },
   "CF61051914": {
     "contest_id": 1216,
     "language": "PyPy 3",
