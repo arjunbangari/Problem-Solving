@@ -1,4 +1,22 @@
 {
+  "CF60977758": {
+    "contest_id": 1216,
+    "language": "Python 3",
+    "path": "codeforces\\1216\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shooting",
+    "problem_url": "https://codeforces.com/contest/1216/problem/B",
+    "submission_id": "CF60977758",
+    "submission_url": "https://codeforces.com/contest/1216/submission/60977758",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Sep/21/2019 13:04"
+  },
   "CF61027497": {
     "contest_id": 1221,
     "language": "Python 3",
