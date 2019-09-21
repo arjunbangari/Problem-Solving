@@ -1,4 +1,21 @@
 {
+  "CF61027497": {
+    "contest_id": 1221,
+    "language": "Python 3",
+    "path": "codeforces\\1221\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perfect Team",
+    "problem_url": "https://codeforces.com/contest/1221/problem/C",
+    "submission_id": "CF61027497",
+    "submission_url": "https://codeforces.com/contest/1221/submission/61027497",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/21/2019 21:59"
+  },
   "CF61027599": {
     "contest_id": 1221,
     "language": "Python 3",
