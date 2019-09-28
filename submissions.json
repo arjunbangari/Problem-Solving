@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC7764644": {
+    "contest_id": "abc142",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc142\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Odds of Oddness",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_a",
+    "submission_id": "AC7764644",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/7764644",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/28/2019 18:51"
+  },
   "AC7765119": {
     "contest_id": "abc142",
     "language": "Python3 (3.4.3)",
