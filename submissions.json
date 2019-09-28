@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC7768247": {
+    "contest_id": "abc142",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc142\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Disjoint Set of Common Divisors",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_d",
+    "submission_id": "AC7768247",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/7768247",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/28/2019 19:07"
+  },
   "AC8019796": {
     "contest_id": "abc143",
     "language": "Python3 (3.4.3)",
