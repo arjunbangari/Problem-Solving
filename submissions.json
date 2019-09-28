@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC7766594": {
+    "contest_id": "abc142",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc142\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Go to School",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_c",
+    "submission_id": "AC7766594",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/7766594",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/28/2019 19:00"
+  },
   "AC7768247": {
     "contest_id": "abc142",
     "language": "Python3 (3.4.3)",
