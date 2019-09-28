@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC7765119": {
+    "contest_id": "abc142",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc142\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Roller Coaster",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_b",
+    "submission_id": "AC7765119",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/7765119",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/28/2019 18:53"
+  },
   "AC7766594": {
     "contest_id": "abc142",
     "language": "Python3 (3.4.3)",
