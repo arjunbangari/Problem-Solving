@@ -1,4 +1,21 @@
 {
+  "CF61475669": {
+    "contest_id": 1228,
+    "language": "PyPy 3",
+    "path": "codeforces\\1228\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Distinct Digits",
+    "problem_url": "https://codeforces.com/contest/1228/problem/A",
+    "submission_id": "CF61475669",
+    "submission_url": "https://codeforces.com/contest/1228/submission/61475669",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2019 18:40"
+  },
   "CF62690065": {
     "contest_id": 1237,
     "language": "Python 3",
