@@ -1,4 +1,22 @@
 {
+  "CF62778353": {
+    "contest_id": 489,
+    "language": "Python 3",
+    "path": "codeforces\\489\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Given Length and Sum of Digits...",
+    "problem_url": "https://codeforces.com/contest/489/problem/C",
+    "submission_id": "CF62778353",
+    "submission_url": "https://codeforces.com/contest/489/submission/62778353",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Oct/17/2019 17:47"
+  },
   "CF62926018": {
     "contest_id": 230,
     "language": "Python 3",
