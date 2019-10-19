@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC8023891": {
+    "contest_id": "abc143",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc143\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "TAKOYAKI FESTIVAL 2019",
+    "problem_url": "https://atcoder.jp/contests/abc143/tasks/abc143_b",
+    "submission_id": "AC8023891",
+    "submission_url": "https://atcoder.jp/contests/abc143/submissions/8023891",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/19/2019 17:34"
+  },
   "AC8030970": {
     "contest_id": "abc143",
     "language": "Python3 (3.4.3)",
