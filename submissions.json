@@ -1,4 +1,20 @@
 {
+  "CF63133880": {
+    "contest_id": 1249,
+    "language": "Python 3",
+    "path": "codeforces\\1249\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Dividing into Teams",
+    "problem_url": "https://codeforces.com/contest/1249/problem/A",
+    "submission_id": "CF63133880",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63133880",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/22/2019 20:10"
+  },
   "CF63154785": {
     "contest_id": 1249,
     "language": "Python 3",
