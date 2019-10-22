@@ -1,4 +1,22 @@
 {
+  "CF63154785": {
+    "contest_id": 1249,
+    "language": "Python 3",
+    "path": "codeforces\\1249\\C1.py",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Good Numbers (easy version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/C1",
+    "submission_id": "CF63154785",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63154785",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/22/2019 20:50"
+  },
   "CF63156404": {
     "contest_id": 1249,
     "language": "Python 3",
