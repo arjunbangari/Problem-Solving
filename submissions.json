@@ -1,4 +1,20 @@
 {
+  "CF63388668": {
+    "contest_id": 1157,
+    "language": "Python 3",
+    "path": "codeforces\\1157\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Number",
+    "problem_url": "https://codeforces.com/contest/1157/problem/B",
+    "submission_id": "CF63388668",
+    "submission_url": "https://codeforces.com/contest/1157/submission/63388668",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Oct/25/2019 20:01"
+  },
   "CF63447566": {
     "contest_id": 1247,
     "language": "Python 3",
