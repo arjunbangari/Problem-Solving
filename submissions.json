@@ -1,4 +1,20 @@
 {
+  "CF63462696": {
+    "contest_id": 1247,
+    "language": "Python 3",
+    "path": "codeforces\\1247\\B1.py",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "TV Subscriptions (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1247/problem/B1",
+    "submission_id": "CF63462696",
+    "submission_url": "https://codeforces.com/contest/1247/submission/63462696",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/26/2019 17:16"
+  },
   "CF63739767": {
     "contest_id": 489,
     "language": "Python 3",
