@@ -1,4 +1,20 @@
 {
+  "CF63447566": {
+    "contest_id": 1247,
+    "language": "Python 3",
+    "path": "codeforces\\1247\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forgetting Things",
+    "problem_url": "https://codeforces.com/contest/1247/problem/A",
+    "submission_id": "CF63447566",
+    "submission_url": "https://codeforces.com/contest/1247/submission/63447566",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/26/2019 16:48"
+  },
   "CF63462266": {
     "contest_id": 1247,
     "language": "Python 3",
