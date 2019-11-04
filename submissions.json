@@ -1,4 +1,20 @@
 {
+  "CF64218296": {
+    "contest_id": 1256,
+    "language": "Python 3",
+    "path": "codeforces\\1256\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimize the Permutation",
+    "problem_url": "https://codeforces.com/contest/1256/problem/B",
+    "submission_id": "CF64218296",
+    "submission_url": "https://codeforces.com/contest/1256/submission/64218296",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Nov/04/2019 19:02"
+  },
   "CF64377357": {
     "contest_id": 1243,
     "language": "Python 3",
