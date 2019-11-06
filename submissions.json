@@ -1,4 +1,20 @@
 {
+  "CF64382604": {
+    "contest_id": 1243,
+    "language": "Python 3",
+    "path": "codeforces\\1243\\B1.py",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Character Swap (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1243/problem/B1",
+    "submission_id": "CF64382604",
+    "submission_url": "https://codeforces.com/contest/1243/submission/64382604",
+    "tags": [
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Nov/06/2019 20:54"
+  },
   "CF64469455": {
     "contest_id": 327,
     "language": "Python 3",
