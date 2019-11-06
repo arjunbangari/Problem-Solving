@@ -1,4 +1,20 @@
 {
+  "CF64377357": {
+    "contest_id": 1243,
+    "language": "Python 3",
+    "path": "codeforces\\1243\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximum Square",
+    "problem_url": "https://codeforces.com/contest/1243/problem/A",
+    "submission_id": "CF64377357",
+    "submission_url": "https://codeforces.com/contest/1243/submission/64377357",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/06/2019 20:44"
+  },
   "CF64382604": {
     "contest_id": 1243,
     "language": "Python 3",
