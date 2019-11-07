@@ -1,4 +1,22 @@
 {
+  "CF64470337": {
+    "contest_id": 327,
+    "language": "PyPy 3",
+    "path": "codeforces\\327\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flipping Game",
+    "problem_url": "https://codeforces.com/contest/327/problem/A",
+    "submission_id": "CF64470337",
+    "submission_url": "https://codeforces.com/contest/327/submission/64470337",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Nov/07/2019 18:24"
+  },
   "CF64472262": {
     "contest_id": 706,
     "language": "GNU C++17",
