@@ -11,7 +11,10 @@ else:
     maxsum = 0
     temp = 0
     for i in range(n):
-        temp = max(brr[i], temp + brr[i])
-        maxsum = max(maxsum, temp)
+        temp += brr[i]
+        if temp<0:
+            temp = 0
+        elif temp>maxsum:
+            maxsum = temp
     print(ones + maxsum)
     
