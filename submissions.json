@@ -1,4 +1,21 @@
 {
+  "CF64519756": {
+    "contest_id": 313,
+    "language": "GNU C++17",
+    "path": "codeforces\\313\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ilya and Queries",
+    "problem_url": "https://codeforces.com/contest/313/problem/B",
+    "submission_id": "CF64519756",
+    "submission_url": "https://codeforces.com/contest/313/submission/64519756",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/08/2019 17:26"
+  },
   "CF64523654": {
     "contest_id": 158,
     "language": "Python 3",
