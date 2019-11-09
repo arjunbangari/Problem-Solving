@@ -1,4 +1,20 @@
 {
+  "CF64568634": {
+    "contest_id": 104,
+    "language": "Python 3",
+    "path": "codeforces\\104\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF64568634",
+    "submission_url": "https://codeforces.com/contest/104/submission/64568634",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/09/2019 13:55"
+  },
   "CF64569384": {
     "contest_id": 155,
     "language": "Python 3",
