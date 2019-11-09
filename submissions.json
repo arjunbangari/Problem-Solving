@@ -1,4 +1,20 @@
 {
+  "CF64593057": {
+    "contest_id": 315,
+    "language": "Python 3",
+    "path": "codeforces\\315\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Bottles",
+    "problem_url": "https://codeforces.com/contest/315/problem/A",
+    "submission_id": "CF64593057",
+    "submission_url": "https://codeforces.com/contest/315/submission/64593057",
+    "tags": [
+      "brute force",
+      "*1400"
+    ],
+    "timestamp": "Nov/09/2019 21:00"
+  },
   "CF64637688": {
     "contest_id": 371,
     "language": "Python 3",
