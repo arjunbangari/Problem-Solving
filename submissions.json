@@ -1,4 +1,21 @@
 {
+  "CF64575976": {
+    "contest_id": 285,
+    "language": "Python 3",
+    "path": "codeforces\\285\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Slightly Decreasing Permutations",
+    "problem_url": "https://codeforces.com/contest/285/problem/A",
+    "submission_id": "CF64575976",
+    "submission_url": "https://codeforces.com/contest/285/submission/64575976",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/09/2019 16:15"
+  },
   "CF64576293": {
     "contest_id": 34,
     "language": "Python 3",
