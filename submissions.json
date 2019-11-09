@@ -1,4 +1,20 @@
 {
+  "CF64568160": {
+    "contest_id": 61,
+    "language": "Python 3",
+    "path": "codeforces\\61\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ultra-Fast Mathematician",
+    "problem_url": "https://codeforces.com/contest/61/problem/A",
+    "submission_id": "CF64568160",
+    "submission_url": "https://codeforces.com/contest/61/submission/64568160",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/09/2019 13:46"
+  },
   "CF64568634": {
     "contest_id": 104,
     "language": "Python 3",
