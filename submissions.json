@@ -1,4 +1,21 @@
 {
+  "CF64639086": {
+    "contest_id": 450,
+    "language": "Python 3",
+    "path": "codeforces\\450\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jzzhu and Sequences",
+    "problem_url": "https://codeforces.com/contest/450/problem/B",
+    "submission_id": "CF64639086",
+    "submission_url": "https://codeforces.com/contest/450/submission/64639086",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/10/2019 18:00"
+  },
   "CF64672614": {
     "contest_id": 357,
     "language": "Python 3",
