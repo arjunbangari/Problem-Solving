@@ -1,4 +1,21 @@
 {
+  "CF64637688": {
+    "contest_id": 371,
+    "language": "Python 3",
+    "path": "codeforces\\371\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hamburgers",
+    "problem_url": "https://codeforces.com/contest/371/problem/C",
+    "submission_id": "CF64637688",
+    "submission_url": "https://codeforces.com/contest/371/submission/64637688",
+    "tags": [
+      "binary search",
+      "brute force",
+      "*1600"
+    ],
+    "timestamp": "Nov/10/2019 17:35"
+  },
   "CF64639086": {
     "contest_id": 450,
     "language": "Python 3",
