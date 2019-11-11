@@ -1,4 +1,21 @@
 {
+  "CF64672614": {
+    "contest_id": 357,
+    "language": "Python 3",
+    "path": "codeforces\\357\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flag Day",
+    "problem_url": "https://codeforces.com/contest/357/problem/B",
+    "submission_id": "CF64672614",
+    "submission_url": "https://codeforces.com/contest/357/submission/64672614",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/11/2019 12:11"
+  },
   "CF64674101": {
     "contest_id": 441,
     "language": "Python 3",
