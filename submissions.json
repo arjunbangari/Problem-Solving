@@ -1,4 +1,21 @@
 {
+  "CF64682674": {
+    "contest_id": 358,
+    "language": "Python 3",
+    "path": "codeforces\\358\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Continuous Line",
+    "problem_url": "https://codeforces.com/contest/358/problem/A",
+    "submission_id": "CF64682674",
+    "submission_url": "https://codeforces.com/contest/358/submission/64682674",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/11/2019 16:10"
+  },
   "CF64685153": {
     "contest_id": 300,
     "language": "Python 3",
