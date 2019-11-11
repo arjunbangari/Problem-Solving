@@ -1,4 +1,22 @@
 {
+  "CF64685153": {
+    "contest_id": 300,
+    "language": "Python 3",
+    "path": "codeforces\\300\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coach",
+    "problem_url": "https://codeforces.com/contest/300/problem/B",
+    "submission_id": "CF64685153",
+    "submission_url": "https://codeforces.com/contest/300/submission/64685153",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Nov/11/2019 17:00"
+  },
   "CF64798586": {
     "contest_id": 282,
     "language": "Python 3",
