@@ -1,4 +1,22 @@
 {
+  "CF64798586": {
+    "contest_id": 282,
+    "language": "Python 3",
+    "path": "codeforces\\282\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "XOR and OR",
+    "problem_url": "https://codeforces.com/contest/282/problem/C",
+    "submission_id": "CF64798586",
+    "submission_url": "https://codeforces.com/contest/282/submission/64798586",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Nov/13/2019 19:16"
+  },
   "CF64799893": {
     "contest_id": 479,
     "language": "Python 3",
