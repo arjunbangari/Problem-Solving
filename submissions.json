@@ -1,4 +1,21 @@
 {
+  "CF64799893": {
+    "contest_id": 479,
+    "language": "Python 3",
+    "path": "codeforces\\479\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/479/problem/C",
+    "submission_id": "CF64799893",
+    "submission_url": "https://codeforces.com/contest/479/submission/64799893",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/13/2019 19:43"
+  },
   "CF64804917": {
     "contest_id": 1257,
     "language": "Python 3",
