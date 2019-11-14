@@ -1,4 +1,24 @@
 {
+  "CF64864204": {
+    "contest_id": 1257,
+    "language": "Python 3",
+    "path": "codeforces\\1257\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dominated Subarray",
+    "problem_url": "https://codeforces.com/contest/1257/problem/C",
+    "submission_id": "CF64864204",
+    "submission_url": "https://codeforces.com/contest/1257/submission/64864204",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Nov/14/2019 10:40"
+  },
   "CF64864328": {
     "contest_id": 1257,
     "language": "Python 3",
