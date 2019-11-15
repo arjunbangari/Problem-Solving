@@ -1,4 +1,21 @@
 {
+  "CF65040574": {
+    "contest_id": 322,
+    "language": "Python 3",
+    "path": "codeforces\\322\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ciel and Flowers",
+    "problem_url": "https://codeforces.com/contest/322/problem/B",
+    "submission_id": "CF65040574",
+    "submission_url": "https://codeforces.com/contest/322/submission/65040574",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Nov/15/2019 18:48"
+  },
   "CF65040643": {
     "contest_id": 322,
     "language": "Python 3",
