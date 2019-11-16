@@ -1,4 +1,20 @@
 {
+  "CF65177234": {
+    "contest_id": 1253,
+    "language": "Python 3",
+    "path": "codeforces\\1253\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Single Push",
+    "problem_url": "https://codeforces.com/contest/1253/problem/A",
+    "submission_id": "CF65177234",
+    "submission_url": "https://codeforces.com/contest/1253/submission/65177234",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Nov/16/2019 20:25"
+  },
   "CF65291909": {
     "contest_id": 372,
     "language": "GNU C++17",
