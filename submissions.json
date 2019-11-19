@@ -1,4 +1,22 @@
 {
+  "CF65331220": {
+    "contest_id": 192,
+    "language": "GNU C++17",
+    "path": "codeforces\\192\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Funky Numbers",
+    "problem_url": "https://codeforces.com/contest/192/problem/A",
+    "submission_id": "CF65331220",
+    "submission_url": "https://codeforces.com/contest/192/submission/65331220",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Nov/19/2019 11:44"
+  },
   "CF65351594": {
     "contest_id": 289,
     "language": "GNU C++17",
