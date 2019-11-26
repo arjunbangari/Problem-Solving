@@ -1,4 +1,22 @@
 {
+  "CF65732372": {
+    "contest_id": 546,
+    "language": "GNU C++17",
+    "path": "codeforces\\546\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Soldier and Cards",
+    "problem_url": "https://codeforces.com/contest/546/problem/C",
+    "submission_id": "CF65732372",
+    "submission_url": "https://codeforces.com/contest/546/submission/65732372",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "games",
+      "*1400"
+    ],
+    "timestamp": "Nov/26/2019 11:22"
+  },
   "CF65744320": {
     "contest_id": 320,
     "language": "GNU C++17",
