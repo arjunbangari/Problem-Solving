@@ -1,4 +1,20 @@
 {
+  "CF65835100": {
+    "contest_id": 1260,
+    "language": "Python 3",
+    "path": "codeforces\\1260\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heating",
+    "problem_url": "https://codeforces.com/contest/1260/problem/A",
+    "submission_id": "CF65835100",
+    "submission_url": "https://codeforces.com/contest/1260/submission/65835100",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/27/2019 19:37"
+  },
   "CF65951563": {
     "contest_id": 580,
     "language": "GNU C++17",
