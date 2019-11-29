@@ -57,14 +57,12 @@ int main(){
     sort(arr.begin(),arr.end());
     
     for(ll i=1;i<=n;i++){
-        ll j;
-        for(j=0;j<arr[i].size();j++){
-            if(mp.find(arr[i][j])!=mp.end()){
-                uni(mp[arr[i][j]],i);
-            } else 
-                mp[arr[i][j]] = i;
+        if(mp.find(arr[i][0])!=mp.end()){
+            uni(mp[arr[i][0]],i);
+        } else {
+            mp[arr[i][0]] = i;
         }
-        for(;j<arr[i].size();j++){
+        for(ll j=0;j<arr[i].size();j++){
             if(mp.find(arr[i][j])==mp.end())
                 mp[arr[i][j]] = i;
         }
