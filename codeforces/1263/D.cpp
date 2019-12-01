@@ -2,46 +2,79 @@
 using namespace std;
 #define ll long long int
 #define fast ios_base::sync_with_stdio(false);cin.tie(NULL)
-int n;
-vector<string> arr;
-vector<int> v[200100];
-int vis[200100];
 
-void dfs(int i){
-    vis[i] = true;
-    for(int u: v[i]){
-        if(i>=n)
-            dfs(u);
-        else if(!vis[u])
-            dfs(u);
+ll n;
+vector<string> arr;
+ll id[200009];
+ll sz[200009];
+
+void initialise(){
+    for(ll i=0;i<=n;i++){
+        id[i] = i;
+        sz[i] = 1;
+   }
+}
+
+ll root(ll i){
+    while(i!=id[i]){
+        id[i] = id[id[i]];
+        i = id[i];
+    }
+    return i;
+}
+
+bool connected(ll p , ll q){
+    return(root(p)==root(q));
+}
+
+void uni(ll p, ll q){
+    ll proot = root(p);
+    ll qroot = root(q);
+    if(sz[proot]>sz[qroot]){
+        id[qroot] = id[proot];
+        sz[proot] += sz[qroot];
+    }
+    else{
+        id[proot] = id[qroot];
+        sz[qroot]+=sz[proot];
     }
 }
 
 int main(){
-    memset(vis,0,sizeof(vis));
+    fast; 
     cin>>n;
+    initialise();
     string s;
-    for(int i=0;i<n;i++){
+    map<char,ll> mp; 
+    string temp="a";
+    arr.push_back(temp);
+    for(ll i=0;i<n;i++){
         cin>>s;
+        sort(s.begin(),s.end());
         arr.push_back(s);
     }
     
-    for(int i=0;i<n;i++){
-        for(int j=0;j<arr[i].size();j++){
-            int temp = int(arr[i][j]) - int('a');
-            v[i].push_back(n+temp);
-            v[n+temp].push_back(i);
+    sort(arr.begin(),arr.end());
+    
+    for(ll i=1;i<=n;i++){
+        ll j;
+        for(j=0;j<arr[i].size();j++){
+            if(mp.find(arr[i][j])!=mp.end()){
+                uni(mp[arr[i][j]],i);
+            } else 
+                mp[arr[i][j]] = i;
+        }
+        for(;j<arr[i].size();j++){
+            if(mp.find(arr[i][j])==mp.end())
+                mp[arr[i][j]] = i;
         }
     }
-    
-    int ans = 0;
-    for(int i=0;i<n;i++){
-        if(!vis[i]){
-            dfs(i);
+    ll ans = 0;
+    for(ll i=1;i<=n;i++){
+        if(id[i]==i)
             ans++;
-        }
     }
-    
     cout<<ans<<"\n";
+    
     return 0;
 }

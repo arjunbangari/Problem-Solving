@@ -1,4 +1,22 @@
 {
+  "CF66144400": {
+    "contest_id": 1263,
+    "language": "GNU C++17",
+    "path": "codeforces\\1263\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Secret Passwords",
+    "problem_url": "https://codeforces.com/contest/1263/problem/D",
+    "submission_id": "CF66144400",
+    "submission_url": "https://codeforces.com/contest/1263/submission/66144400",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Dec/01/2019 21:23"
+  },
   "CF66145883": {
     "contest_id": 1263,
     "language": "GNU C++17",
