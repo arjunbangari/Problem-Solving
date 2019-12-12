@@ -1,4 +1,22 @@
 {
+  "CF66695008": {
+    "contest_id": 1272,
+    "language": "Python 3",
+    "path": "codeforces\\1272\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1272/problem/C",
+    "submission_id": "CF66695008",
+    "submission_url": "https://codeforces.com/contest/1272/submission/66695008",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/12/2019 19:39"
+  },
   "CF66835584": {
     "contest_id": 1277,
     "language": "Python 3",
