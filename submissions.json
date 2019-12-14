@@ -1,4 +1,20 @@
 {
+  "CF66835584": {
+    "contest_id": 1277,
+    "language": "Python 3",
+    "path": "codeforces\\1277\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Happy Birthday, Polycarp!",
+    "problem_url": "https://codeforces.com/contest/1277/problem/A",
+    "submission_id": "CF66835584",
+    "submission_url": "https://codeforces.com/contest/1277/submission/66835584",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/14/2019 16:42"
+  },
   "CF66839769": {
     "contest_id": 1277,
     "language": "GNU C++17",
