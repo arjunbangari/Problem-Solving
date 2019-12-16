@@ -1,4 +1,21 @@
 {
+  "CF67023935": {
+    "contest_id": 1277,
+    "language": "GNU C++17",
+    "path": "codeforces\\1277\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Fairs",
+    "problem_url": "https://codeforces.com/contest/1277/problem/E",
+    "submission_id": "CF67023935",
+    "submission_url": "https://codeforces.com/contest/1277/submission/67023935",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1900"
+    ],
+    "timestamp": "Dec/16/2019 19:18"
+  },
   "CF67330252": {
     "contest_id": 1269,
     "language": "Python 3",
