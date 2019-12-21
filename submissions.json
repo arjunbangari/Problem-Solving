@@ -1,4 +1,21 @@
 {
+  "CF67330252": {
+    "contest_id": 1269,
+    "language": "Python 3",
+    "path": "codeforces\\1269\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equation",
+    "problem_url": "https://codeforces.com/contest/1269/problem/A",
+    "submission_id": "CF67330252",
+    "submission_url": "https://codeforces.com/contest/1269/submission/67330252",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/21/2019 16:37"
+  },
   "CF67797619": {
     "contest_id": 1283,
     "language": "Python 3",
