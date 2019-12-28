@@ -1,4 +1,20 @@
 {
+  "CF67801878": {
+    "contest_id": 1283,
+    "language": "Python 3",
+    "path": "codeforces\\1283\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Candies Division",
+    "problem_url": "https://codeforces.com/contest/1283/problem/B",
+    "submission_id": "CF67801878",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67801878",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/28/2019 22:40"
+  },
   "CF67878565": {
     "contest_id": 1270,
     "language": "Python 3",
