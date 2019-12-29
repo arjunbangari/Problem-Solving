@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC9210159": {
+    "contest_id": "abc149",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc149\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Greedy Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc149/tasks/abc149_b",
+    "submission_id": "AC9210159",
+    "submission_url": "https://atcoder.jp/contests/abc149/submissions/9210159",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/29/2019 16:35"
+  },
   "AC9215678": {
     "contest_id": "abc149",
     "language": "C++14 (GCC 5.4.1)",
