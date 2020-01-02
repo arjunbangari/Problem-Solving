@@ -1,4 +1,20 @@
 {
+  "CF68065222": {
+    "contest_id": 939,
+    "language": "GNU C++17",
+    "path": "codeforces\\939\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love Triangle",
+    "problem_url": "https://codeforces.com/contest/939/problem/A",
+    "submission_id": "CF68065222",
+    "submission_url": "https://codeforces.com/contest/939/submission/68065222",
+    "tags": [
+      "graphs",
+      "*800"
+    ],
+    "timestamp": "Jan/02/2020 12:50"
+  },
   "CF68072733": {
     "contest_id": 1095,
     "language": "GNU C++17",
