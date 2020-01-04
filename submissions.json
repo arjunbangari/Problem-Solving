@@ -1,4 +1,23 @@
 {
+  "CF68163144": {
+    "contest_id": 538,
+    "language": "GNU C++17",
+    "path": "codeforces\\538\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Quasi Binary",
+    "problem_url": "https://codeforces.com/contest/538/problem/B",
+    "submission_id": "CF68163144",
+    "submission_url": "https://codeforces.com/contest/538/submission/68163144",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jan/04/2020 17:15"
+  },
   "CF68166375": {
     "contest_id": 1284,
     "language": "Python 3",
