@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC9385423": {
+    "contest_id": "abc150",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc150\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Count ABC",
+    "problem_url": "https://atcoder.jp/contests/abc150/tasks/abc150_b",
+    "submission_id": "AC9385423",
+    "submission_url": "https://atcoder.jp/contests/abc150/submissions/9385423",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/10/2020 17:37"
+  },
   "AC9388869": {
     "contest_id": "abc150",
     "language": "Python3 (3.4.3)",
