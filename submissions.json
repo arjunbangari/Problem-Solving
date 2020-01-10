@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC9384150": {
+    "contest_id": "abc150",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc150\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "500 Yen Coins",
+    "problem_url": "https://atcoder.jp/contests/abc150/tasks/abc150_a",
+    "submission_id": "AC9384150",
+    "submission_url": "https://atcoder.jp/contests/abc150/submissions/9384150",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/10/2020 17:36"
+  },
   "AC9385423": {
     "contest_id": "abc150",
     "language": "Python3 (3.4.3)",
