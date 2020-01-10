@@ -1,3 +1,3 @@
 n = int(input())
 s = input()
-print(n+1)
+print(s.count('L')+s.count('R')+1)
