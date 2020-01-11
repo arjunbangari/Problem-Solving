@@ -1,4 +1,22 @@
 {
+  "CF68594485": {
+    "contest_id": 1285,
+    "language": "GNU C++17",
+    "path": "codeforces\\1285\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Just Eat It!",
+    "problem_url": "https://codeforces.com/contest/1285/problem/B",
+    "submission_id": "CF68594485",
+    "submission_url": "https://codeforces.com/contest/1285/submission/68594485",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/11/2020 19:08"
+  },
   "CF68606488": {
     "contest_id": 1201,
     "language": "GNU C++17",
