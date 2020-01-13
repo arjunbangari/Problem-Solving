@@ -1,4 +1,21 @@
 {
+  "CF68717185": {
+    "contest_id": 716,
+    "language": "GNU C++17",
+    "path": "codeforces\\716\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Complete the Word",
+    "problem_url": "https://codeforces.com/contest/716/problem/B",
+    "submission_id": "CF68717185",
+    "submission_url": "https://codeforces.com/contest/716/submission/68717185",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jan/13/2020 20:24"
+  },
   "CF68765946": {
     "contest_id": 522,
     "language": "GNU C++17",
