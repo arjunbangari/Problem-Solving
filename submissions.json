@@ -1,4 +1,21 @@
 {
+  "CF68767210": {
+    "contest_id": 27,
+    "language": "GNU C++17",
+    "path": "codeforces\\27\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Next Test",
+    "problem_url": "https://codeforces.com/contest/27/problem/A",
+    "submission_id": "CF68767210",
+    "submission_url": "https://codeforces.com/contest/27/submission/68767210",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jan/14/2020 15:52"
+  },
   "CF68768764": {
     "contest_id": 1077,
     "language": "GNU C++17",
