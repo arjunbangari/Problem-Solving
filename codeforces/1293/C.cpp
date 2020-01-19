@@ -11,13 +11,13 @@ int main(){
     fast;
     ll q,r,c,count=0;
     cin>>n>>q;
-    set<pair<ll,ll>> us;
+    map<pair<ll,ll>,ll> us;
     while(q--){
         cin>>r>>c;
         string ans;
         auto temp = make_pair(r,c);
         if(us.find(temp)==us.end()){
-            us.insert(temp);
+            us[temp] = 1;
             if(r==1){
                 if(valid(r+1,c) && us.find(make_pair(r+1,c))!=us.end())
                     count++;
