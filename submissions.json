@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC9601395": {
+    "contest_id": "abc152",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc152\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Comparing Strings",
+    "problem_url": "https://atcoder.jp/contests/abc152/tasks/abc152_b",
+    "submission_id": "AC9601395",
+    "submission_url": "https://atcoder.jp/contests/abc152/submissions/9601395",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/19/2020 17:23"
+  },
   "AC9607816": {
     "contest_id": "abc152",
     "language": "Python3 (3.4.3)",
