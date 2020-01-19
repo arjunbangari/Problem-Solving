@@ -991,6 +991,22 @@
     ],
     "timestamp": "Sep/13/2020 17:33"
   },
+  "AC9607816": {
+    "contest_id": "abc152",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc152\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Low Elements",
+    "problem_url": "https://atcoder.jp/contests/abc152/tasks/abc152_c",
+    "submission_id": "AC9607816",
+    "submission_url": "https://atcoder.jp/contests/abc152/submissions/9607816",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/19/2020 17:30"
+  },
   "AC9925994": {
     "contest_id": "dp",
     "language": "C++14 (GCC 5.4.1)",
