@@ -11,51 +11,51 @@ int main(){
     fast;
     ll q,r,c,count=0;
     cin>>n>>q;
-    ll arr[3][n+1];
-    memset(arr,0,sizeof(arr));
+    set<pair<ll,ll>> us;
     while(q--){
         cin>>r>>c;
         string ans;
-        
-        if(arr[r][c]==0){
-            arr[r][c] = 1;
+        auto temp = make_pair(r,c);
+        if(us.find(temp)==us.end()){
+            us.insert(temp);
             if(r==1){
-                if(valid(r+1,c) && arr[r+1][c]==1)
+                if(valid(r+1,c) && us.find(make_pair(r+1,c))!=us.end())
                     count++;
-                if(valid(r+1,c-1) && arr[r+1][c-1]==1)
+                if(valid(r+1,c-1) && us.find(make_pair(r+1,c-1))!=us.end())
                     count++;
-                if(valid(r+1,c+1) && arr[r+1][c+1]==1)
+                if(valid(r+1,c+1) && us.find(make_pair(r+1,c+1))!=us.end())
                     count++;
             }
             else{
-                if(valid(r-1,c) && arr[r-1][c]==1)
+                if(valid(r-1,c) && us.find(make_pair(r-1,c))!=us.end())
                     count++;
-                if(valid(r-1,c-1) && arr[r-1][c-1]==1)
+                if(valid(r-1,c-1) && us.find(make_pair(r-1,c-1))!=us.end())
                     count++;
-                if(valid(r-1,c+1) && arr[r-1][c+1]==1)
+                if(valid(r-1,c+1) && us.find(make_pair(r-1,c+1))!=us.end())
                     count++;
             }
+            ans = (count>0 ? "No":"Yes");
         }
         else{
-            arr[r][c]=0;
+            us.erase(make_pair(r,c));
             if(r==1){
-                if(valid(r+1,c) && arr[r+1][c]==1)
+                if(valid(r+1,c) && us.find(make_pair(r+1,c))!=us.end())
                     count--;
-                if(valid(r+1,c-1) && arr[r+1][c-1]==1)
+                if(valid(r+1,c-1) && us.find(make_pair(r+1,c-1))!=us.end())
                     count--;
-                if(valid(r+1,c+1) && arr[r+1][c+1]==1)
+                if(valid(r+1,c+1) && us.find(make_pair(r+1,c+1))!=us.end())
                     count--;
             }
             else{
-                if(valid(r-1,c) && arr[r-1][c]==1)
+                if(valid(r-1,c) && us.find(make_pair(r-1,c))!=us.end())
                     count--;
-                if(valid(r-1,c-1) && arr[r-1][c-1]==1)
+                if(valid(r-1,c-1) && us.find(make_pair(r-1,c-1))!=us.end())
                     count--;
-                if(valid(r-1,c+1) && arr[r-1][c+1]==1)
+                if(valid(r-1,c+1) && us.find(make_pair(r-1,c+1))!=us.end())
                     count--;
             }
+            ans = (count>0 ? "No":"Yes");
         }
-        ans = (count>0 ? "No":"Yes");
         cout<<ans<<endl;
     }
     return 0;
