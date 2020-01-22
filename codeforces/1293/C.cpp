@@ -2,31 +2,61 @@
 using namespace std;
 #define ll long long int
 #define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+ll n;
+bool valid(ll x,ll y){
+    return (x>=1 && x<=2 && y>=1 && y<=n);
+}
 
 int main(){
     fast;
-    ll n,q,r,c,count=0;
+    ll q,r,c,count=0;
     cin>>n>>q;
-    ll arr[4][n+2];
+    ll arr[3][n+1];
     memset(arr,0,sizeof(arr));
     while(q--){
         cin>>r>>c;
+        string ans;
         
         if(arr[r][c]==0){
             arr[r][c] = 1;
-            for(ll i=-1;i<=1;i+=2)
-                for(ll j=-1;j<=1;j++)
-                    if(arr[r+i][c+j]==1)
-                        count++;
+            if(r==1){
+                if(valid(r+1,c) && arr[r+1][c]==1)
+                    count++;
+                if(valid(r+1,c-1) && arr[r+1][c-1]==1)
+                    count++;
+                if(valid(r+1,c+1) && arr[r+1][c+1]==1)
+                    count++;
+            }
+            else{
+                if(valid(r-1,c) && arr[r-1][c]==1)
+                    count++;
+                if(valid(r-1,c-1) && arr[r-1][c-1]==1)
+                    count++;
+                if(valid(r-1,c+1) && arr[r-1][c+1]==1)
+                    count++;
+            }
         }
         else{
             arr[r][c]=0;
-            for(ll i=-1;i<=1;i+=2)
-                for(ll j=-1;j<=1;j++)
-                    if(arr[r+i][c+j]==1)
-                        count--;
+            if(r==1){
+                if(valid(r+1,c) && arr[r+1][c]==1)
+                    count--;
+                if(valid(r+1,c-1) && arr[r+1][c-1]==1)
+                    count--;
+                if(valid(r+1,c+1) && arr[r+1][c+1]==1)
+                    count--;
+            }
+            else{
+                if(valid(r-1,c) && arr[r-1][c]==1)
+                    count--;
+                if(valid(r-1,c-1) && arr[r-1][c-1]==1)
+                    count--;
+                if(valid(r-1,c+1) && arr[r-1][c+1]==1)
+                    count--;
+            }
         }
-        cout<<(count>0 ? "No":"Yes")<<endl;
+        ans = (count>0 ? "No":"Yes");
+        cout<<ans<<endl;
     }
     return 0;
 }
