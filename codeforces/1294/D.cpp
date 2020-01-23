@@ -10,7 +10,7 @@ int main(){
     cin>>q>>x;
     unordered_set<ll> us;
     ll cnt[x+1] = {0};
-    //us.max_load_factor(0.25);us.reserve(512);
+    us.max_load_factor(0.25);us.reserve(512);
     while(q--){
         cin>>y;
         v = y%x;
