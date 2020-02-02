@@ -1,4 +1,20 @@
 {
+  "CF70007555": {
+    "contest_id": 1263,
+    "language": "GNU C++17",
+    "path": "codeforces\\1263\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sweet Problem",
+    "problem_url": "https://codeforces.com/contest/1263/problem/A",
+    "submission_id": "CF70007555",
+    "submission_url": "https://codeforces.com/contest/1263/submission/70007555",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/02/2020 11:05"
+  },
   "CF70244132": {
     "contest_id": 1296,
     "language": "Python 3",
