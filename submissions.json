@@ -1,4 +1,20 @@
 {
+  "CF70244132": {
+    "contest_id": 1296,
+    "language": "Python 3",
+    "path": "codeforces\\1296\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array with Odd Sum",
+    "problem_url": "https://codeforces.com/contest/1296/problem/A",
+    "submission_id": "CF70244132",
+    "submission_url": "https://codeforces.com/contest/1296/submission/70244132",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/04/2020 20:11"
+  },
   "CF70248984": {
     "contest_id": 1296,
     "language": "Python 3",
