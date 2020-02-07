@@ -12,9 +12,10 @@ int main(){
     ll dp[n+1],p[n+1];
     dp[1] = 0;
     p[1] = 1;
+    for(ll i=2;i<=n;i++)
+        p[i] = (p[i-1]*3)%m;
     
     for(ll i=2;i<=n;i++){
-        p[i] = (p[i-1]*3)%m;
         dp[i] =  (p[i] - dp[i-1] + m)%m;
     }
     
