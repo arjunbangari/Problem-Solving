@@ -1,4 +1,21 @@
 {
+  "CF71436747": {
+    "contest_id": 735,
+    "language": "GNU C++17",
+    "path": "codeforces\\735\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Taxes",
+    "problem_url": "https://codeforces.com/contest/735/problem/D",
+    "submission_id": "CF71436747",
+    "submission_url": "https://codeforces.com/contest/735/submission/71436747",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Feb/19/2020 18:09"
+  },
   "CF71534947": {
     "contest_id": 1217,
     "language": "GNU C++17",
