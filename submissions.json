@@ -1,4 +1,22 @@
 {
+  "CF71667987": {
+    "contest_id": 1313,
+    "language": "Python 3",
+    "path": "codeforces\\1313\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fast Food Restaurant",
+    "problem_url": "https://codeforces.com/contest/1313/problem/A",
+    "submission_id": "CF71667987",
+    "submission_url": "https://codeforces.com/contest/1313/submission/71667987",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/23/2020 15:27"
+  },
   "CF71693562": {
     "contest_id": 771,
     "language": "GNU C++17",
