@@ -1,4 +1,22 @@
 {
+  "CF71770173": {
+    "contest_id": 1311,
+    "language": "Python 3",
+    "path": "codeforces\\1311\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add Odd or Subtract Even",
+    "problem_url": "https://codeforces.com/contest/1311/problem/A",
+    "submission_id": "CF71770173",
+    "submission_url": "https://codeforces.com/contest/1311/submission/71770173",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/24/2020 20:08"
+  },
   "CF71785552": {
     "contest_id": 1311,
     "language": "GNU C++17",
