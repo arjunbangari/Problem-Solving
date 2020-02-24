@@ -1,4 +1,20 @@
 {
+  "CF71768320": {
+    "contest_id": 1315,
+    "language": "GNU C++17",
+    "path": "codeforces\\1315\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dead Pixel",
+    "problem_url": "https://codeforces.com/contest/1315/problem/A",
+    "submission_id": "CF71768320",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71768320",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/24/2020 19:41"
+  },
   "CF71770173": {
     "contest_id": 1311,
     "language": "Python 3",
