@@ -1,4 +1,23 @@
 {
+  "CF71958045": {
+    "contest_id": 505,
+    "language": "GNU C++17",
+    "path": "codeforces\\505\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mr. Kitayuta's Colorful Graph",
+    "problem_url": "https://codeforces.com/contest/505/problem/B",
+    "submission_id": "CF71958045",
+    "submission_url": "https://codeforces.com/contest/505/submission/71958045",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "*1400"
+    ],
+    "timestamp": "Feb/27/2020 13:27"
+  },
   "CF72088156": {
     "contest_id": 742,
     "language": "GNU C++17",
