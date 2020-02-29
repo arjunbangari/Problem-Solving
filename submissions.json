@@ -1,4 +1,21 @@
 {
+  "CF72090349": {
+    "contest_id": 1165,
+    "language": "GNU C++17",
+    "path": "codeforces\\1165\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost All Divisors",
+    "problem_url": "https://codeforces.com/contest/1165/problem/D",
+    "submission_id": "CF72090349",
+    "submission_url": "https://codeforces.com/contest/1165/submission/72090349",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Feb/29/2020 15:49"
+  },
   "CF72313275": {
     "contest_id": 1305,
     "language": "Python 3",
