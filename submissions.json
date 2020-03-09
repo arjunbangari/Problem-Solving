@@ -1,4 +1,22 @@
 {
+  "CF72837519": {
+    "contest_id": 415,
+    "language": "GNU C++17",
+    "path": "codeforces\\415\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mashmokh and Numbers",
+    "problem_url": "https://codeforces.com/contest/415/problem/C",
+    "submission_id": "CF72837519",
+    "submission_url": "https://codeforces.com/contest/415/submission/72837519",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Mar/09/2020 22:01"
+  },
   "CF72840765": {
     "contest_id": 1312,
     "language": "GNU C++17",
