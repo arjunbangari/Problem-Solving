@@ -1,4 +1,22 @@
 {
+  "CF72908397": {
+    "contest_id": 9,
+    "language": "Python 3",
+    "path": "codeforces\\9\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hexadecimal's Numbers",
+    "problem_url": "https://codeforces.com/contest/9/problem/C",
+    "submission_id": "CF72908397",
+    "submission_url": "https://codeforces.com/contest/9/submission/72908397",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/10/2020 22:15"
+  },
   "CF72935293": {
     "contest_id": 611,
     "language": "GNU C++17",
