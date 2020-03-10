@@ -1,4 +1,21 @@
 {
+  "CF72895988": {
+    "contest_id": 448,
+    "language": "Python 3",
+    "path": "codeforces\\448\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Suffix Structures",
+    "problem_url": "https://codeforces.com/contest/448/problem/B",
+    "submission_id": "CF72895988",
+    "submission_url": "https://codeforces.com/contest/448/submission/72895988",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Mar/10/2020 19:03"
+  },
   "CF72896500": {
     "contest_id": 743,
     "language": "GNU C++17",
