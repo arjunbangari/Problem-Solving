@@ -1,4 +1,21 @@
 {
+  "CF72894545": {
+    "contest_id": 165,
+    "language": "GNU C++17",
+    "path": "codeforces\\165\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Burning Midnight Oil",
+    "problem_url": "https://codeforces.com/contest/165/problem/B",
+    "submission_id": "CF72894545",
+    "submission_url": "https://codeforces.com/contest/165/submission/72894545",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/10/2020 18:41"
+  },
   "CF72895988": {
     "contest_id": 448,
     "language": "Python 3",
