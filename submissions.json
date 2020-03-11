@@ -1,4 +1,21 @@
 {
+  "CF72968414": {
+    "contest_id": 614,
+    "language": "GNU C++17",
+    "path": "codeforces\\614\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Link/Cut Tree",
+    "problem_url": "https://codeforces.com/contest/614/problem/A",
+    "submission_id": "CF72968414",
+    "submission_url": "https://codeforces.com/contest/614/submission/72968414",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/11/2020 21:35"
+  },
   "CF72971660": {
     "contest_id": 557,
     "language": "GNU C++17",
