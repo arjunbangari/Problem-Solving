@@ -1,4 +1,22 @@
 {
+  "CF73003046": {
+    "contest_id": 1108,
+    "language": "GNU C++17",
+    "path": "codeforces\\1108\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Diverse Garland",
+    "problem_url": "https://codeforces.com/contest/1108/problem/D",
+    "submission_id": "CF73003046",
+    "submission_url": "https://codeforces.com/contest/1108/submission/73003046",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Mar/12/2020 13:09"
+  },
   "CF73023712": {
     "contest_id": 1324,
     "language": "Python 3",
