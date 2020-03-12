@@ -1,4 +1,21 @@
 {
+  "CF73023712": {
+    "contest_id": 1324,
+    "language": "Python 3",
+    "path": "codeforces\\1324\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Tetris Problem",
+    "problem_url": "https://codeforces.com/contest/1324/problem/A",
+    "submission_id": "CF73023712",
+    "submission_url": "https://codeforces.com/contest/1324/submission/73023712",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Mar/12/2020 18:38"
+  },
   "CF73026399": {
     "contest_id": 1324,
     "language": "GNU C++17",
