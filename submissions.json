@@ -1,4 +1,23 @@
 {
+  "CF73122644": {
+    "contest_id": 548,
+    "language": "GNU C++17",
+    "path": "codeforces\\548\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike and Fun",
+    "problem_url": "https://codeforces.com/contest/548/problem/B",
+    "submission_id": "CF73122644",
+    "submission_url": "https://codeforces.com/contest/548/submission/73122644",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/13/2020 11:47"
+  },
   "CF73123881": {
     "contest_id": 940,
     "language": "GNU C++17",
