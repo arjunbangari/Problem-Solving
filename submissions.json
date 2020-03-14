@@ -1,4 +1,20 @@
 {
+  "AC10825438": {
+    "contest_id": "panasonic2020",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\panasonic2020\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Kth Term",
+    "problem_url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_a",
+    "submission_id": "AC10825438",
+    "submission_url": "https://atcoder.jp/contests/panasonic2020/submissions/10825438",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/14/2020 17:31"
+  },
   "AC10851523": {
     "contest_id": "panasonic2020",
     "language": "Python3 (3.4.3)",
