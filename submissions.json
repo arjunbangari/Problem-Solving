@@ -1,4 +1,21 @@
 {
+  "CF73207763": {
+    "contest_id": 1321,
+    "language": "GNU C++17",
+    "path": "codeforces\\1321\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Journey Planning",
+    "problem_url": "https://codeforces.com/contest/1321/problem/B",
+    "submission_id": "CF73207763",
+    "submission_url": "https://codeforces.com/contest/1321/submission/73207763",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Mar/14/2020 16:34"
+  },
   "CF73223319": {
     "contest_id": 1325,
     "language": "Python 3",
