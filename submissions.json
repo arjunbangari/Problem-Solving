@@ -1,4 +1,22 @@
 {
+  "CF73456738": {
+    "contest_id": 251,
+    "language": "GNU C++17",
+    "path": "codeforces\\251\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Points on Line",
+    "problem_url": "https://codeforces.com/contest/251/problem/A",
+    "submission_id": "CF73456738",
+    "submission_url": "https://codeforces.com/contest/251/submission/73456738",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Mar/17/2020 11:33"
+  },
   "CF73458469": {
     "contest_id": 1141,
     "language": "GNU C++17",
