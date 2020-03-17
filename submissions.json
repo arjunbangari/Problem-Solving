@@ -1,4 +1,22 @@
 {
+  "CF73482779": {
+    "contest_id": 862,
+    "language": "GNU C++17",
+    "path": "codeforces\\862\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mahmoud and Ehab and the bipartiteness",
+    "problem_url": "https://codeforces.com/contest/862/problem/B",
+    "submission_id": "CF73482779",
+    "submission_url": "https://codeforces.com/contest/862/submission/73482779",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Mar/17/2020 17:51"
+  },
   "CF73487591": {
     "contest_id": 679,
     "language": "GNU C++17",
