@@ -1,4 +1,21 @@
 {
+  "CF73638713": {
+    "contest_id": 687,
+    "language": "GNU C++17",
+    "path": "codeforces\\687\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "NP-Hard Problem",
+    "problem_url": "https://codeforces.com/contest/687/problem/A",
+    "submission_id": "CF73638713",
+    "submission_url": "https://codeforces.com/contest/687/submission/73638713",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Mar/19/2020 14:41"
+  },
   "CF73659137": {
     "contest_id": 437,
     "language": "GNU C++17",
