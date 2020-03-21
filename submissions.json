@@ -1,4 +1,22 @@
 {
+  "CF73884307": {
+    "contest_id": 1282,
+    "language": "GNU C++17",
+    "path": "codeforces\\1282\\B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "K for the Price of One (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1282/problem/B1",
+    "submission_id": "CF73884307",
+    "submission_url": "https://codeforces.com/contest/1282/submission/73884307",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Mar/21/2020 17:35"
+  },
   "CF73952150": {
     "contest_id": 1005,
     "language": "GNU C++17",
