@@ -1,4 +1,20 @@
 {
+  "CF74263886": {
+    "contest_id": 780,
+    "language": "GNU C++17",
+    "path": "codeforces\\780\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Meeting Place Cannot Be Changed",
+    "problem_url": "https://codeforces.com/contest/780/problem/B",
+    "submission_id": "CF74263886",
+    "submission_url": "https://codeforces.com/contest/780/submission/74263886",
+    "tags": [
+      "binary search",
+      "*1600"
+    ],
+    "timestamp": "Mar/25/2020 12:50"
+  },
   "CF74276575": {
     "contest_id": 429,
     "language": "GNU C++17",
