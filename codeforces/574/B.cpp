@@ -13,8 +13,6 @@ int main(){
     
     vector<ll> v[n+1], sz(n+1,0);
     vector<pair<ll,ll>> edges;
-    ll adj[n+1][n+1];
-    memset(adj, 0, sizeof(adj));
     
     for(ll i=0;i<m;i++){
         cin>>a>>b;
@@ -23,15 +21,17 @@ int main(){
         sz[a]++;
         sz[b]++;
         edges.push_back({a,b});
-        adj[a][b] = (adj[b][a]=1);
     }
+    
+    for(ll i=1;i<=n;i++)
+        sort(v[i].begin(), v[i].end());
         
     ll mx = 1e10;
     
     for(auto u: edges){
         ll f = u.first, s = u.second;
         for(ll i=1;i<=n;i++){
-            if( adj[f][i] && adj[s][i] )
+            if( bs(v[f],i) && bs(v[s],i) )
                 mx = min(mx, sz[f]+sz[s]+sz[i]-6);
         }
     }
