@@ -1,4 +1,24 @@
 {
+  "CF74353379": {
+    "contest_id": 920,
+    "language": "GNU C++17",
+    "path": "codeforces\\920\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Adjacent Elements",
+    "problem_url": "https://codeforces.com/contest/920/problem/C",
+    "submission_id": "CF74353379",
+    "submission_url": "https://codeforces.com/contest/920/submission/74353379",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Mar/26/2020 11:02"
+  },
   "CF74354545": {
     "contest_id": 1130,
     "language": "GNU C++17",
