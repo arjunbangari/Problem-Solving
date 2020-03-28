@@ -31,6 +31,22 @@
     ],
     "timestamp": "Mar/22/2020 17:52"
   },
+  "AC11272393": {
+    "contest_id": "abc160",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc160\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Golden Coins",
+    "problem_url": "https://atcoder.jp/contests/abc160/tasks/abc160_b",
+    "submission_id": "AC11272393",
+    "submission_url": "https://atcoder.jp/contests/abc160/submissions/11272393",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/28/2020 17:33"
+  },
   "AC11282010": {
     "contest_id": "abc160",
     "language": "Python3 (3.4.3)",
