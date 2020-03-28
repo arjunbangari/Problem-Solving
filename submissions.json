@@ -31,6 +31,22 @@
     ],
     "timestamp": "Mar/22/2020 17:52"
   },
+  "AC11265467": {
+    "contest_id": "abc160",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc160\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Coffee",
+    "problem_url": "https://atcoder.jp/contests/abc160/tasks/abc160_a",
+    "submission_id": "AC11265467",
+    "submission_url": "https://atcoder.jp/contests/abc160/submissions/11265467",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/28/2020 17:31"
+  },
   "AC11272393": {
     "contest_id": "abc160",
     "language": "Python3 (3.4.3)",
