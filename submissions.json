@@ -1,4 +1,21 @@
 {
+  "CF75068038": {
+    "contest_id": 1110,
+    "language": "GNU C++17",
+    "path": "codeforces\\1110\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tape",
+    "problem_url": "https://codeforces.com/contest/1110/problem/B",
+    "submission_id": "CF75068038",
+    "submission_url": "https://codeforces.com/contest/1110/submission/75068038",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Apr/01/2020 16:02"
+  },
   "CF75071124": {
     "contest_id": 1110,
     "language": "GNU C++17",
