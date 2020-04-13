@@ -17,29 +17,23 @@ int main(){
         cin>>n;
         
         ll arr[n];
-        ll cnt[201] = {0};
-        vector<ll> v[201];
-        ll siz[201] = {0};
- 
-        for(ll i=0;i<n;i++)
+        ll max_element=0;
+        for(ll i=0;i<n;i++){
             cin>>arr[i];
+            max_element = max(max_element, arr[i]);
+        }
         
+        vector<ll> v[max_element+1];
+        ll siz[max_element+1] = {0};
         for(ll i=0;i<n;i++){
             v[arr[i]].push_back(i);
             siz[arr[i]]++;
-            cnt[arr[i]] = 1;
         }
-        
-        vector<ll> req_array;
-        for(ll i=1;i<201;i++)
-            if(cnt[i])
-                req_array.push_back(i);
         
         ll mx = 0;
         
-        for(ll i : req_array){
-            mx = max(mx, siz[i]);
-            for(ll j : req_array ){
+        for(ll i=1;i<=max_element;i++){
+            for(ll j=1;j<=max_element;j++){
                 if(j==i)
                     continue;
                 ll sz = siz[i];
@@ -51,6 +45,8 @@ int main(){
                 }
             }
         }
+        for(ll i=1;i<=max_element;i++)
+            mx = max(mx, siz[i]);
         
         cout<<mx<<endl;
         
