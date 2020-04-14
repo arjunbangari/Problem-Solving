@@ -1,4 +1,23 @@
 {
+  "CF76697378": {
+    "contest_id": 1335,
+    "language": "GNU C++14",
+    "path": "codeforces\\1335\\E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Three Blocks Palindrome (hard version)",
+    "problem_url": "https://codeforces.com/contest/1335/problem/E2",
+    "submission_id": "CF76697378",
+    "submission_url": "https://codeforces.com/contest/1335/submission/76697378",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Apr/14/2020 18:56"
+  },
   "CF76697547": {
     "contest_id": 1335,
     "language": "GNU C++17 (64)",
