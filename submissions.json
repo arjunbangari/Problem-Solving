@@ -1,4 +1,21 @@
 {
+  "CF76699986": {
+    "contest_id": 292,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\292\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Network Topology",
+    "problem_url": "https://codeforces.com/contest/292/problem/B",
+    "submission_id": "CF76699986",
+    "submission_url": "https://codeforces.com/contest/292/submission/76699986",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/14/2020 19:20"
+  },
   "CF76703537": {
     "contest_id": 22,
     "language": "GNU C++17 (64)",
