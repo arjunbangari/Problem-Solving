@@ -1,4 +1,21 @@
 {
+  "CF76761930": {
+    "contest_id": 1027,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1027\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mouse Hunt",
+    "problem_url": "https://codeforces.com/contest/1027/problem/D",
+    "submission_id": "CF76761930",
+    "submission_url": "https://codeforces.com/contest/1027/submission/76761930",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Apr/15/2020 11:32"
+  },
   "CF76767191": {
     "contest_id": 1027,
     "language": "GNU C++17 (64)",
