@@ -15,13 +15,24 @@ ll calculate(ll a, ll b, ll c){
 void solve(vector<ll> first, vector<ll> second, vector<ll> third){
     for(ll r: first){
         auto temp1 = lower_bound(second.begin(), second.end(), r);
-        auto temp2 = upper_bound(third.begin(), third.end(), r);
+        if(temp1==second.end())
+            temp1--;
         
-        if(temp1==second.end() || temp2==third.begin())
-            continue;
-        temp2--;
-            
-        ans = min(ans, calculate(r, *temp1, *temp2));
+        ll a = *temp1;
+        ll opt = (a+r)/2;
+        
+        auto temp2 = lower_bound(third.begin(), third.end(), opt);
+        
+        if(temp2==third.end())
+            temp2--;
+        
+        ll b = *temp2;
+        ans = min(ans, calculate(r,a,b));
+        
+        if(temp2!=third.begin())
+            temp2--;
+        b = *temp2;
+        ans = min(ans, calculate(r,a,b));
     }
 }
 
@@ -50,11 +61,8 @@ int main(){
         sort(blue.begin(), blue.end());
         
         solve(red, green, blue);
-        solve(red, blue, green);
         solve(green, blue, red);
-        solve(green, red, blue);
         solve(blue, red, green);
-        solve(blue, green, red);
         
         cout<<ans<<endl;
     }
