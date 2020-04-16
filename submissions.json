@@ -1,4 +1,24 @@
 {
+  "CF76948692": {
+    "contest_id": 1337,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1337\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Xenia and Colorful Gems",
+    "problem_url": "https://codeforces.com/contest/1337/problem/D",
+    "submission_id": "CF76948692",
+    "submission_url": "https://codeforces.com/contest/1337/submission/76948692",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Apr/16/2020 14:20"
+  },
   "CF76955448": {
     "contest_id": 1155,
     "language": "GNU C++17 (64)",
