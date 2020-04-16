@@ -1,4 +1,22 @@
 {
+  "CF76955448": {
+    "contest_id": 1155,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1155\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reverse a Substring",
+    "problem_url": "https://codeforces.com/contest/1155/problem/A",
+    "submission_id": "CF76955448",
+    "submission_url": "https://codeforces.com/contest/1155/submission/76955448",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/16/2020 15:34"
+  },
   "CF76980848": {
     "contest_id": 1155,
     "language": "GNU C++17 (64)",
