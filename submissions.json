@@ -1,4 +1,23 @@
 {
+  "CF77060774": {
+    "contest_id": 349,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\349\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Color the Fence",
+    "problem_url": "https://codeforces.com/contest/349/problem/B",
+    "submission_id": "CF77060774",
+    "submission_url": "https://codeforces.com/contest/349/submission/77060774",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Apr/17/2020 15:53"
+  },
   "CF77064832": {
     "contest_id": 1190,
     "language": "GNU C++17 (64)",
