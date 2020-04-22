@@ -1,4 +1,22 @@
 {
+  "CF77667856": {
+    "contest_id": 802,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\802\\J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Send the Fool Further! (easy)",
+    "problem_url": "https://codeforces.com/contest/802/problem/J",
+    "submission_id": "CF77667856",
+    "submission_url": "https://codeforces.com/contest/802/submission/77667856",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "Apr/22/2020 21:09"
+  },
   "CF77670268": {
     "contest_id": 120,
     "language": "GNU C++17 (64)",
