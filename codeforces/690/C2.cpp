@@ -12,18 +12,34 @@ ll const mod = 1e9+7;
 
 // code begins here
 
-vector<ll> v[maxn];
-ll max_depth = 0, node = 1;
+vector<ll> v[maxn], depth(maxn);
 
-void dfs(ll i,ll depth=0, ll p=0){
-    if(depth>max_depth){
-        max_depth = depth;
-        node = i;
+void dfs(ll i, ll p=0){
+    for(auto u: v[i]){
+        if(u!=p){
+            depth[u] = depth[i] + 1;
+            dfs(u, i);
+        }
+    }
+}
+
+
+ll diameter(ll n){
+    fill(depth.begin(), depth.end(), 0);
+    dfs(1);
+    
+    ll mx = -1, pos;
+    for(ll i=1;i<=n;i++){
+        if(depth[i]>mx)
+            pos = i;
+        mx = max(mx, depth[i]);
     }
     
-    for(auto u: v[i])
-        if(u!=p)
-            dfs(u, depth+1, i);
+    fill(depth.begin(), depth.end(), 0);
+    dfs(pos);
+    
+    mx = *max_element(depth.begin(), depth.end());
+    return mx;
 }
 
 int main(){
@@ -38,10 +54,9 @@ int main(){
         v[b].push_back(a);
     }
         
-    dfs(1);
-    dfs(node);
+    ll ans = diameter(n);
     
-    cout<<max_depth<<endl;
+    cout<<ans<<endl;
     
     return 0;
 }
