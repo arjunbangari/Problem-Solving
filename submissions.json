@@ -1,4 +1,19 @@
 {
+  "CF77722093": {
+    "contest_id": 690,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\690\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Brain Network (easy)",
+    "problem_url": "https://codeforces.com/contest/690/problem/C1",
+    "submission_id": "CF77722093",
+    "submission_url": "https://codeforces.com/contest/690/submission/77722093",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "Apr/23/2020 12:39"
+  },
   "CF77769408": {
     "contest_id": 1341,
     "language": "GNU C++17 (64)",
