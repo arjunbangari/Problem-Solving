@@ -23,8 +23,21 @@ void solve(){
     for(ll i=0;i<n;i++)
         mp[s[i]] = i;
     
-    for(ll i=0;i<n;i++){
-        for(char u='A'; u<s[i]; u++ ){
+    for(ll i=0;i<min(n,m);i++){
+        if(s[i]>c[i]){
+            for(char u='A'; u<=c[i]; u++){
+                if(mp.find(u)!=mp.end()){
+                    if(mp[u]>i){
+                        swap(s[i], s[mp[u]]);
+                        return;
+                    }
+                }
+            }
+            return;
+        }
+        
+        
+        for(char u='A'; u<c[i]; u++ ){
             if(mp.find(u)!=mp.end()){
                 if(mp[u]>i){
                     swap(s[i], s[mp[u]]);
