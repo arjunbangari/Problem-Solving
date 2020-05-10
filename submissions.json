@@ -1,4 +1,20 @@
 {
+  "AC13031331": {
+    "contest_id": "abc167",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc167\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Easy Linear Programming",
+    "problem_url": "https://atcoder.jp/contests/abc167/tasks/abc167_b",
+    "submission_id": "AC13031331",
+    "submission_url": "https://atcoder.jp/contests/abc167/submissions/13031331",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/10/2020 17:35"
+  },
   "AC13055762": {
     "contest_id": "abc167",
     "language": "C++ (GCC 9.2.1)",
