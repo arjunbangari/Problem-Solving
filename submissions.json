@@ -1,4 +1,22 @@
 {
+  "CF79896499": {
+    "contest_id": 1350,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1350\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Orac and Models",
+    "problem_url": "https://codeforces.com/contest/1350/problem/B",
+    "submission_id": "CF79896499",
+    "submission_url": "https://codeforces.com/contest/1350/submission/79896499",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/12/2020 21:21"
+  },
   "CF79896588": {
     "contest_id": 1350,
     "language": "GNU C++17 (64)",
