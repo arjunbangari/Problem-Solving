@@ -1,4 +1,20 @@
 {
+  "CF79970490": {
+    "contest_id": 1136,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1136\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nastya Is Buying Lunch",
+    "problem_url": "https://codeforces.com/contest/1136/problem/D",
+    "submission_id": "CF79970490",
+    "submission_url": "https://codeforces.com/contest/1136/submission/79970490",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/13/2020 16:22"
+  },
   "CF79999464": {
     "contest_id": 1163,
     "language": "GNU C++17 (64)",
