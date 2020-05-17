@@ -45,6 +45,13 @@ int main(){
     }
     
     bfs();
+
+    for(ll i=2;i<=n;i++){
+        if(!parent[i]){
+            cout<<"No"<<endl;
+            return 0;
+        }
+    }
     
     cout<<"Yes"<<endl;
     
