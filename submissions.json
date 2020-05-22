@@ -1,4 +1,21 @@
 {
+  "CF80950507": {
+    "contest_id": 1038,
+    "language": "GNU C++17",
+    "path": "codeforces\\1038\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Gambling",
+    "problem_url": "https://codeforces.com/contest/1038/problem/C",
+    "submission_id": "CF80950507",
+    "submission_url": "https://codeforces.com/contest/1038/submission/80950507",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "May/22/2020 21:31"
+  },
   "CF80984615": {
     "contest_id": 1038,
     "language": "GNU C++17",
