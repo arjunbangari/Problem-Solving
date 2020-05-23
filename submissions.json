@@ -1,4 +1,22 @@
 {
+  "CF81028329": {
+    "contest_id": 1041,
+    "language": "GNU C++17",
+    "path": "codeforces\\1041\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heist",
+    "problem_url": "https://codeforces.com/contest/1041/problem/A",
+    "submission_id": "CF81028329",
+    "submission_url": "https://codeforces.com/contest/1041/submission/81028329",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/23/2020 21:18"
+  },
   "CF81029935": {
     "contest_id": 1041,
     "language": "GNU C++17",
