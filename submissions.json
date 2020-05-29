@@ -1,4 +1,21 @@
 {
+  "CF81904986": {
+    "contest_id": 1346,
+    "language": "Kotlin",
+    "path": "codeforces\\1346\\A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Color Revolution",
+    "problem_url": "https://codeforces.com/contest/1346/problem/A",
+    "submission_id": "CF81904986",
+    "submission_url": "https://codeforces.com/contest/1346/submission/81904986",
+    "tags": [
+      "*special problem",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/29/2020 21:16"
+  },
   "CF81982228": {
     "contest_id": 1042,
     "language": "GNU C++17 (64)",
