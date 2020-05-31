@@ -1,4 +1,20 @@
 {
+  "AC13891009": {
+    "contest_id": "abc169",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc169\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Count Median",
+    "problem_url": "https://atcoder.jp/contests/abc169/tasks/abc169_e",
+    "submission_id": "AC13891009",
+    "submission_url": "https://atcoder.jp/contests/abc169/submissions/13891009",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/31/2020 19:44"
+  },
   "AC14219050": {
     "contest_id": "tokiomarine2020",
     "language": "Python (3.8.2)",
