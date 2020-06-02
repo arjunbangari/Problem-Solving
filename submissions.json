@@ -1,4 +1,24 @@
 {
+  "CF82271519": {
+    "contest_id": 182,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\182\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Common Divisors",
+    "problem_url": "https://codeforces.com/contest/182/problem/D",
+    "submission_id": "CF82271519",
+    "submission_url": "https://codeforces.com/contest/182/submission/82271519",
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "math",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jun/02/2020 10:54"
+  },
   "CF82383078": {
     "contest_id": 427,
     "language": "GNU C++17 (64)",
