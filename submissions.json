@@ -1,4 +1,22 @@
 {
+  "CF82398667": {
+    "contest_id": 1042,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1042\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Petya and Array",
+    "problem_url": "https://codeforces.com/contest/1042/problem/D",
+    "submission_id": "CF82398667",
+    "submission_url": "https://codeforces.com/contest/1042/submission/82398667",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Jun/03/2020 18:32"
+  },
   "CF82400886": {
     "contest_id": 1151,
     "language": "GNU C++17 (64)",
