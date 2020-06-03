@@ -1,4 +1,23 @@
 {
+  "CF82395005": {
+    "contest_id": 1208,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1208\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Uniqueness",
+    "problem_url": "https://codeforces.com/contest/1208/problem/B",
+    "submission_id": "CF82395005",
+    "submission_url": "https://codeforces.com/contest/1208/submission/82395005",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jun/03/2020 17:48"
+  },
   "CF82398667": {
     "contest_id": 1042,
     "language": "GNU C++17 (64)",
