@@ -1,4 +1,22 @@
 {
+  "CF83210044": {
+    "contest_id": 219,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\219\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Color Stripe",
+    "problem_url": "https://codeforces.com/contest/219/problem/C",
+    "submission_id": "CF83210044",
+    "submission_url": "https://codeforces.com/contest/219/submission/83210044",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jun/09/2020 16:10"
+  },
   "CF83390098": {
     "contest_id": 1366,
     "language": "GNU C++17 (64)",
