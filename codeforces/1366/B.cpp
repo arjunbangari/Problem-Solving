@@ -8,7 +8,7 @@ typedef pair<ll,ll> pll;
 #define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 
 ll const inf = 1e18;
-ll const maxn = 1e7+5;
+ll const maxn = 1e6+5;
 ll const mod = 1e9+7;
 
 // code begins here
@@ -23,21 +23,38 @@ int main(){
         ll n,x,m;
         cin>>n>>x>>m;
         
-        ll low = x, high = x;
+        vector<pll> arr;
+        arr.push_back({x,x});
+        
+        ll ans= 0;
         
         while(m--){
             ll l,r;
             cin>>l>>r;
             
-            if(l>high || r<low)
-                continue;
-            
-            low = min(low, l);
-            high = max(high, r);
+            for(auto u: arr){
+                if(r<u.first || l>u.second)
+                    continue;
+                arr.push_back({l,r});
+                break;
+            }
         }
         
-        cout<<high-low+1<<endl;
+        sort(arr.begin(), arr.end());
+        
+        ll sz = arr.size();
+        ans += arr[0].second - arr[0].first +1;
+        
+        for(ll i=1;i<sz;i++){
+            arr[i].first = max(arr[i].first, arr[i-1].second+1);
+            if(arr[i].second>=arr[i].first)
+                ans += arr[i].second - arr[i].first + 1;
+            else
+                arr[i].second = arr[i].first-1;
+        }
+        
+        cout<<ans<<endl;
     }
-    
+
     return 0;
 }
