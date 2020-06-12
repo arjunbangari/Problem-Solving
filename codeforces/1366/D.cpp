@@ -12,19 +12,14 @@ ll const maxn = 1e7+5;
 ll const mod = 1e9+7;
 
 // code begins here
-vector<bool> prime(maxn, true);
-vector<ll> ans1(1e6), ans2(1e6), spf(maxn);
+vector<ll> ans1(1e6), ans2(1e6), spf(maxn, 0);
 
-void SieveOfEratosthenes() {
-    for(ll i=1;i<maxn;i++)
-        spf[i] = i;
-    
-    for (ll p=2; p*p<=maxn; p++) { 
-        if (prime[p]) { 
-            for (ll i=p*p; i<maxn; i += p) {
-                prime[i] = false; 
-                spf[i] = p;
-            }
+void find_spf() { 
+    for (ll i = 2; i <maxn; i++) { 
+        if (spf[i] == 0) { 
+            spf[i] = i; 
+            for (ll j = 2*i; j < maxn; j += i) 
+                spf[j] = i;
         } 
     } 
 } 
@@ -41,13 +36,13 @@ void solve(ll ind, ll n){
         ans1[ind] = x;
         ans2[ind] = n;
     }
-   return;
+  return;
 }
 
 int main(){
     fast;
 
-    SieveOfEratosthenes();
+    find_spf();
     
     ll n;
     cin>>n;
