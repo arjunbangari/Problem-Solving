@@ -1,4 +1,20 @@
 {
+  "AC14219050": {
+    "contest_id": "tokiomarine2020",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\tokiomarine2020\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Nickname",
+    "problem_url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_a",
+    "submission_id": "AC14219050",
+    "submission_url": "https://atcoder.jp/contests/tokiomarine2020/submissions/14219050",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/13/2020 17:30"
+  },
   "AC14223512": {
     "contest_id": "tokiomarine2020",
     "language": "C++ (GCC 9.2.1)",
