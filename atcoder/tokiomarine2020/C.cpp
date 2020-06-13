@@ -23,7 +23,7 @@ int main(){
     for(auto &u: arr)
         cin>>u;
     
-    for(ll j=0;j<min(k,43LL);j++){
+    for(ll j=0;j<min(k,50LL);j++){
         vector<ll> prefix(n+1, 0);
         
         for(ll i=0;i<n;i++){
