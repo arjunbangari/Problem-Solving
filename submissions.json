@@ -1,4 +1,24 @@
 {
+  "CF83908479": {
+    "contest_id": 501,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\501\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Misha and Forest",
+    "problem_url": "https://codeforces.com/contest/501/problem/C",
+    "submission_id": "CF83908479",
+    "submission_url": "https://codeforces.com/contest/501/submission/83908479",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Jun/16/2020 15:11"
+  },
   "CF83913594": {
     "contest_id": 231,
     "language": "GNU C++17 (64)",
