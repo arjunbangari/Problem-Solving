@@ -34,21 +34,22 @@ int main(){
         
     for(ll i=1;i<=n;i++){
         
-        ll l = 1, r = i;
+        ll l = 1, r = i, cur_mx = 1;
         
-        while(l<r){
-            ll mid = (l+r+1)/2;
+        while(l<=r){
+            ll mid = (l+r)/2;
             ll req = arr[i]*mid - (pre[i] - pre[i-mid]);
             
-            if(req<=k)
-                l = mid;
-            else
+            if(req<=k){
+                cur_mx = mid;
+                l = mid+1;
+            } else {
                 r = mid - 1;
-
+            }
         }
         
-        if(l>mx){
-            mx = l;
+        if(cur_mx>mx){
+            mx = cur_mx;
             num = arr[i];
         }
             
