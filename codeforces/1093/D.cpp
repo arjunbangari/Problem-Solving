@@ -12,7 +12,7 @@ ll const maxn = 1e6+5;
 ll const mod = 998244353;
 
 // code begins here
-ll n,m, flag=0, a=0, b=0;
+ll n,m, flag=0, a=0, b=0, cnt=0;
 vector<ll> v[maxn], vis(maxn), color(maxn);
 
 void dfs(ll i, ll c=0){
@@ -20,7 +20,7 @@ void dfs(ll i, ll c=0){
     color[i] = c;
     a += c;
     b += !c;
-    
+    cnt++;
     for(auto u: v[i]){
         if(vis[u]){
             if(color[u]==color[i])
@@ -70,11 +70,15 @@ int main(){
         for(ll i=1;i<=n;i++){
             if(!vis[i]){
                 dfs(i);
+                ll temp;
+                if(cnt==0)
+                    temp = 3;
+                else 
+                    temp = (binpow(2,a) + binpow(2,b))%mod;
                 
-                ll temp = (binpow(2,a) + binpow(2,b))%mod;
                 ans = (ans*temp)%mod;
                 
-                a = 0; b = 0; 
+                a = 0; b = 0; cnt = 0;
             }
         }
         
