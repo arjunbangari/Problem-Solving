@@ -1,4 +1,23 @@
 {
+  "CF84860873": {
+    "contest_id": 489,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\489\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Unbearable Controversy of Being",
+    "problem_url": "https://codeforces.com/contest/489/problem/D",
+    "submission_id": "CF84860873",
+    "submission_url": "https://codeforces.com/contest/489/submission/84860873",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Jun/24/2020 12:16"
+  },
   "CF84881041": {
     "contest_id": 785,
     "language": "GNU C++17 (64)",
