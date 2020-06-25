@@ -1,4 +1,21 @@
 {
+  "CF84942874": {
+    "contest_id": 264,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\264\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Good Sequences",
+    "problem_url": "https://codeforces.com/contest/264/problem/B",
+    "submission_id": "CF84942874",
+    "submission_url": "https://codeforces.com/contest/264/submission/84942874",
+    "tags": [
+      "dp",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jun/25/2020 11:45"
+  },
   "CF84959939": {
     "contest_id": 451,
     "language": "GNU C++17 (64)",
