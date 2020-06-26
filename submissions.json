@@ -1,4 +1,23 @@
 {
+  "CF85093488": {
+    "contest_id": 1373,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1373\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Sum on Even Positions",
+    "problem_url": "https://codeforces.com/contest/1373/problem/D",
+    "submission_id": "CF85093488",
+    "submission_url": "https://codeforces.com/contest/1373/submission/85093488",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jun/26/2020 11:27"
+  },
   "CF85117455": {
     "contest_id": 1109,
     "language": "GNU C++17 (64)",
