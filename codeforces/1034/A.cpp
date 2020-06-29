@@ -48,8 +48,6 @@ int main(){
     
     map<ll, ll> mp;
     
-    ll ans = inf;
-    
     for(auto u: arr){
         ll x = u/allgcd;
         set<ll> s;
@@ -57,11 +55,14 @@ int main(){
             s.insert(spf[x]);
             x = x/spf[x];
         }
-        for(auto v: s){
+        for(auto v: s)
             mp[v]++;
-            ans = min(ans, n - mp[v]);
-        }
     }
+    
+    ll ans = inf;
+    
+    for(auto u: mp)
+        ans = min(ans, n - u.second);
     
     cout<< ( ans==inf ? -1 : ans ) <<endl;
     
