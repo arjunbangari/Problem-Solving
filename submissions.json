@@ -1,4 +1,21 @@
 {
+  "CF85916425": {
+    "contest_id": 625,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\625\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Guest From the Past",
+    "problem_url": "https://codeforces.com/contest/625/problem/A",
+    "submission_id": "CF85916425",
+    "submission_url": "https://codeforces.com/contest/625/submission/85916425",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jul/04/2020 16:40"
+  },
   "CF85916942": {
     "contest_id": 625,
     "language": "GNU C++17 (64)",
