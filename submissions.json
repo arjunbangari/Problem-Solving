@@ -1,4 +1,23 @@
 {
+  "CF86027915": {
+    "contest_id": 1375,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1375\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Integer Game",
+    "problem_url": "https://codeforces.com/contest/1375/problem/F",
+    "submission_id": "CF86027915",
+    "submission_url": "https://codeforces.com/contest/1375/submission/86027915",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "interactive",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "Jul/05/2020 11:38"
+  },
   "CF86028870": {
     "contest_id": 1375,
     "language": "GNU C++17 (64)",
