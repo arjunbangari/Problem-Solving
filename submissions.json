@@ -1,4 +1,20 @@
 {
+  "AC14989476": {
+    "contest_id": "abc173",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc173\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "H and V",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_c",
+    "submission_id": "AC14989476",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/14989476",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/05/2020 17:53"
+  },
   "AC14993231": {
     "contest_id": "abc173",
     "language": "C++ (GCC 9.2.1)",
