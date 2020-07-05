@@ -1,4 +1,20 @@
 {
+  "AC14963997": {
+    "contest_id": "abc173",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc173\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Payment",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_a",
+    "submission_id": "AC14963997",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/14963997",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/05/2020 17:31"
+  },
   "AC14970405": {
     "contest_id": "abc173",
     "language": "C++ (GCC 9.2.1)",
