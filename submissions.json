@@ -1,4 +1,25 @@
 {
+  "CF86028870": {
+    "contest_id": 1375,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1375\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Tree Modification",
+    "problem_url": "https://codeforces.com/contest/1375/problem/G",
+    "submission_id": "CF86028870",
+    "submission_url": "https://codeforces.com/contest/1375/submission/86028870",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "Jul/05/2020 11:54"
+  },
   "CF86029228": {
     "contest_id": 1375,
     "language": "GNU C++17 (64)",
