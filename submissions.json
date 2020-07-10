@@ -1,4 +1,23 @@
 {
+  "CF86417249": {
+    "contest_id": 1243,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1243\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "0-1 MST",
+    "problem_url": "https://codeforces.com/contest/1243/problem/D",
+    "submission_id": "CF86417249",
+    "submission_url": "https://codeforces.com/contest/1243/submission/86417249",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Jul/10/2020 15:48"
+  },
   "CF86419021": {
     "contest_id": 653,
     "language": "GNU C++17 (64)",
