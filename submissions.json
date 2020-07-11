@@ -1,4 +1,21 @@
 {
+  "CF86476967": {
+    "contest_id": 1118,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1118\\F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Tree Cutting (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1118/problem/F1",
+    "submission_id": "CF86476967",
+    "submission_url": "https://codeforces.com/contest/1118/submission/86476967",
+    "tags": [
+      "dfs and similar",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Jul/11/2020 11:43"
+  },
   "CF86478124": {
     "contest_id": 1118,
     "language": "GNU C++17 (64)",
