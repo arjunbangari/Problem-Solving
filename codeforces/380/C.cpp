@@ -13,48 +13,31 @@ ll const mod = 1e9+7;
 
 // code begins here
 struct Info { 
-   ll x, y, z; 
+   ll x = 0, y = 0, z = 0; 
    
-   // x = '('
-   // y = ')'
-   // z = complete sequence
-   
-   Info(){
-       x =0LL, y = 0LL, z=0LL;
-   }
+    void merge(Info &a, Info &b){
+        ll val = min(a.x, b.y);
+        z = a.z + b.z + val;
+        x = a.x + b.x - val;
+        y = a.y + b.y - val;
+    }
 }; 
 
 ll n;
 vector<Info> a(4*maxn);
 string s;
 
-void combine(ll v){
-    ll val = min(a[2*v].x, a[2*v + 1].y);
-    a[v].z = a[2*v].z + a[2*v+1].z + val;
-    a[v].x = a[2*v].x + a[2*v+1].x - val;
-    a[v].y = a[2*v].y + a[2*v+1].y - val;
-}
-
-Info combine_ans(Info ans1, Info ans2){
-    Info ans;
-    ll val = min(ans1.x, ans2.y);
-    ans.z = ans1.z + ans2.z + val;
-    ans.x = ans1.x + ans2.x - val;
-    ans.y = ans1.y + ans2.y - val;
-    return ans;
-}
-
 void build( ll v, ll tl, ll tr) {
     if (tl == tr) {
         if(s[tl]=='(')
-            a[v].x++;
+            a[v].x = 1;
         if(s[tl]==')')
-            a[v].y++;
+            a[v].y = 1;
     } else {
         ll tm = (tl + tr) / 2;
         build(v*2, tl, tm);
         build(v*2+1, tm+1, tr);
-        combine(v);
+        a[v].merge(a[2*v], a[2*v+1]);
     }
 }
  
@@ -68,7 +51,7 @@ Info query(ll v, ll tl, ll tr, ll l, ll r) {
     ll tm = (tl + tr) / 2;
     Info ans1 = query(v*2, tl, tm, l, min(r, tm));
     Info ans2 = query(v*2+1, tm+1, tr, max(l, tm+1), r);
-    ans = combine_ans(ans1, ans2);
+    ans.merge(ans1, ans2);
     return ans;
 }
 
