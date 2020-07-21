@@ -1,4 +1,21 @@
 {
+  "CF87478280": {
+    "contest_id": 622,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\622\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Not Equal on a Segment",
+    "problem_url": "https://codeforces.com/contest/622/problem/C",
+    "submission_id": "CF87478280",
+    "submission_url": "https://codeforces.com/contest/622/submission/87478280",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jul/21/2020 10:27"
+  },
   "CF87486484": {
     "contest_id": 988,
     "language": "GNU C++17 (64)",
