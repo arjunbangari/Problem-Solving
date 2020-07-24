@@ -1,4 +1,25 @@
 {
+  "CF87856013": {
+    "contest_id": 1253,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1253\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Harmonious Graph",
+    "problem_url": "https://codeforces.com/contest/1253/problem/D",
+    "submission_id": "CF87856013",
+    "submission_url": "https://codeforces.com/contest/1253/submission/87856013",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jul/24/2020 17:03"
+  },
   "CF87869418": {
     "contest_id": 515,
     "language": "GNU C++17 (64)",
