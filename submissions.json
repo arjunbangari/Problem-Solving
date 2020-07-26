@@ -1,4 +1,25 @@
 {
+  "CF88051070": {
+    "contest_id": 1384,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1384\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "String Transformation 1",
+    "problem_url": "https://codeforces.com/contest/1384/problem/C",
+    "submission_id": "CF88051070",
+    "submission_url": "https://codeforces.com/contest/1384/submission/88051070",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jul/26/2020 17:00"
+  },
   "CF88143681": {
     "contest_id": 1133,
     "language": "GNU C++17 (64)",
