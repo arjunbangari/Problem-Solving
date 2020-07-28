@@ -1,4 +1,21 @@
 {
+  "CF88194432": {
+    "contest_id": 367,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\367\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja ans Anagrams",
+    "problem_url": "https://codeforces.com/contest/367/problem/B",
+    "submission_id": "CF88194432",
+    "submission_url": "https://codeforces.com/contest/367/submission/88194432",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "Jul/28/2020 15:59"
+  },
   "CF88394261": {
     "contest_id": 1389,
     "language": "GNU C++17 (64)",
