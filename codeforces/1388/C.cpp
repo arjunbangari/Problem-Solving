@@ -28,17 +28,18 @@ void dfs(ll i, ll p=0){
         h_sum += (sz[u]+happy[u])/2;
     }
     
-    if((happy[i]+sz[i])<0 || (happy[i] + sz[i])%2!=0)
+    if((happy[i] + sz[i])%2!=0)
         ans = 0;
 
-    if(happy[i]<(-sz[i]) || happy[i]>(sz[i]))
-        ans = 0;
+    ll x = (sz[i] + happy[i])/2;
+    ll y = sz[i] - x;
     
-        ll x = (sz[i] + happy[i])/2;
-        ll y = sz[i] - x;
-        ll s = x - max(0LL, people[i]-y);
-        if(h_sum>x)
-            ans = 0;
+    if(x<0 || y<0)
+        ans = 0;
+
+    ll s = x - max(0LL, people[i]-y);
+    if(h_sum>x)
+        ans = 0;
 }
 
 int main(){
