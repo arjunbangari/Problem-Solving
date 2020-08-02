@@ -1,4 +1,21 @@
 {
+  "CF88705535": {
+    "contest_id": 950,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\950\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Intercepted Message",
+    "problem_url": "https://codeforces.com/contest/950/problem/B",
+    "submission_id": "CF88705535",
+    "submission_url": "https://codeforces.com/contest/950/submission/88705535",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Aug/02/2020 11:12"
+  },
   "CF88707837": {
     "contest_id": 950,
     "language": "GNU C++17 (64)",
