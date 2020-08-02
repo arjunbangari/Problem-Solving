@@ -1,4 +1,21 @@
 {
+  "CF88707837": {
+    "contest_id": 950,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\950\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Zebras",
+    "problem_url": "https://codeforces.com/contest/950/problem/C",
+    "submission_id": "CF88707837",
+    "submission_url": "https://codeforces.com/contest/950/submission/88707837",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Aug/02/2020 12:00"
+  },
   "CF88720473": {
     "contest_id": 950,
     "language": "GNU C++17 (64)",
