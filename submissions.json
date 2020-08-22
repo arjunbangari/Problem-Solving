@@ -1,4 +1,22 @@
 {
+  "CF90690806": {
+    "contest_id": 343,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\343\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Read Time",
+    "problem_url": "https://codeforces.com/contest/343/problem/C",
+    "submission_id": "CF90690806",
+    "submission_url": "https://codeforces.com/contest/343/submission/90690806",
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Aug/22/2020 18:58"
+  },
   "CF90699557": {
     "contest_id": 1271,
     "language": "GNU C++17 (64)",
