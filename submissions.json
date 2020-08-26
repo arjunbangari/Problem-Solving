@@ -1,4 +1,22 @@
 {
+  "CF91026048": {
+    "contest_id": 1257,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1257\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Contest",
+    "problem_url": "https://codeforces.com/contest/1257/problem/E",
+    "submission_id": "CF91026048",
+    "submission_url": "https://codeforces.com/contest/1257/submission/91026048",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Aug/26/2020 12:28"
+  },
   "CF91027254": {
     "contest_id": 1400,
     "language": "GNU C++17 (64)",
