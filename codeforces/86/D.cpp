@@ -61,15 +61,30 @@ int main(){
     sort(all(brr), cmp);
     map<pll, ll> ans;
     
-    ll curl = 0, curr = -1;
+    ll curl = 0, curr = 0;
     
     for(auto u: brr){
         ll tl = u.first, tr = u.second;
         
-        while(curl<tl) remove_(arr[curl++]);
-        while(curl>tl) add(arr[--curl]);
-        while(curr<tr) add(arr[++curr]); 
-        while(curr>tr) remove_(arr[curr--]);
+        while(curl<tl){
+            remove_(arr[curl]);
+            curl++;
+        }
+        
+        while(curl>tl){
+            add(arr[curl-1]);
+            curl--;
+        }
+        
+        while(curr<=tr){
+            add(arr[curr]);
+            curr++;
+        }
+        
+        while(curr>tr+1){
+            remove_(arr[curr-1]);
+            curr--;
+        }
         
         ans[u] = res;
     }
