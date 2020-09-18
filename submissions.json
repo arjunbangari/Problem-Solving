@@ -1,4 +1,20 @@
 {
+  "CF93095421": {
+    "contest_id": 494,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\494\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Treasure",
+    "problem_url": "https://codeforces.com/contest/494/problem/A",
+    "submission_id": "CF93095421",
+    "submission_url": "https://codeforces.com/contest/494/submission/93095421",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Sep/18/2020 12:26"
+  },
   "CF93336763": {
     "contest_id": 269,
     "language": "GNU C++17 (64)",
