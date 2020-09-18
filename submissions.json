@@ -1,4 +1,21 @@
 {
+  "CF93093659": {
+    "contest_id": 363,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\363\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Renting Bikes",
+    "problem_url": "https://codeforces.com/contest/363/problem/D",
+    "submission_id": "CF93093659",
+    "submission_url": "https://codeforces.com/contest/363/submission/93093659",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Sep/18/2020 11:56"
+  },
   "CF93095421": {
     "contest_id": 494,
     "language": "GNU C++17 (64)",
