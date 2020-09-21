@@ -1,4 +1,22 @@
 {
+  "CF93381352": {
+    "contest_id": 111,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\111\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Petya and Divisors",
+    "problem_url": "https://codeforces.com/contest/111/problem/B",
+    "submission_id": "CF93381352",
+    "submission_url": "https://codeforces.com/contest/111/submission/93381352",
+    "tags": [
+      "binary search",
+      "data structures",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Sep/21/2020 11:51"
+  },
   "CF93384766": {
     "contest_id": 255,
     "language": "GNU C++17 (64)",
